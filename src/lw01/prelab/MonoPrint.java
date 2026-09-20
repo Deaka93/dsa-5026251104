@@ -1,3 +1,5 @@
+package lw01.prelab;
+
 //class monoprint merupakan turunan dari clas printjob
 public class MonoPrint extends PrintJob {
 

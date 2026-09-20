@@ -1,3 +1,5 @@
+package lw01.prelab;
+
 public abstract class PrintJob implements Chargeable {
     //variabel penyimpan id dan jumlah halaman yang hanya bisa diakses di kelas ini
     private String id;

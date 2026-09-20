@@ -1,3 +1,5 @@
+package lw01.prelab;
+
 //class colour print merupakan turunan dari class printjob
 public class ColourPrint extends PrintJob {
 
