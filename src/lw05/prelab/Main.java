@@ -2,7 +2,7 @@ package lw05.prelab;
 
 import java.util.*;
 
-public class Main {
+public class Main{
     static int[][] graph;
     static int size;
     static String[] names;
