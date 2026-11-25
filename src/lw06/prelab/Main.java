@@ -56,5 +56,7 @@ public class Main {
         System.out.println("Inorder : " + inorder(root).trim());
         System.out.println("Postorder : " + postorder(root).trim());
         System.out.println("Search " + target + " : " + search(root, target));
+
+        sc.close();
     }
 }
